@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705911531 source:/Users/mac/Desktop/string/main.cpp
+	<iostream>
+	<string>
+

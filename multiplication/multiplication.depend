@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708509746 source:/Users/mac/Desktop/multiplication/main.cpp
+	<iostream>
+	<math.h>
+

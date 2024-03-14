@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702280752 source:/Users/mac/Desktop/circle/main.cpp
+	<iostream>
+	<cmath>
+

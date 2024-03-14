@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704712423 source:/Users/mac/Desktop/hypotenuse/main.cpp
+	<iostream>
+	<cmath>
+
